@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wolf1712
 - 👀 I’m interested in Coding/Solving Problems,Puzzles
-- 🌱 I’m currently learning React Js,Node Js
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning React Js, Mastering in c++....
+- 💞️ I’m looking to collaborate on projects on Web development..
 - 📫 How to reach me ...
 
 <!---
